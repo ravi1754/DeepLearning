@@ -1,2 +1,2 @@
 # DeepLearning
-This is the project for udacity's deeplearning nanodegree  assignments and tasks
+This project is for udacity's deeplearning nanodegree  assignments and tasks
